@@ -244,6 +244,12 @@
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Images\Computer acessory\keyboard.png" />
+    <Content Include="Images\Computer acessory\keyboard2.png" />
+    <Content Include="Images\Computer acessory\mouse.png" />
+    <Content Include="Images\Computer acessory\mouse2.png" />
+    <Content Include="Images\Computer\download.png" />
+    <Content Include="Images\Computer\laptop.png" />
     <Content Include="ProductDetails.aspx" />
     <Content Include="ProductList.aspx" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -548,7 +554,8 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Images\" />
+    <Folder Include="Images\Phone Accessory\" />
+    <Folder Include="Images\Phones\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
