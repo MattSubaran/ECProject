@@ -40,7 +40,9 @@
         <asp:Button ID="UpdateBtn" runat="server" Text="Update" OnClick="UpdateBtn_Click" />
       </td>
       <td>
-        <!--Checkout Placeholder -->
+        <td>
+            <asp:Button ID="CheckoutBtn" runat="server" Text="Check Out" OnClick="CheckoutBtn_Click" />
+      </td>
       </td>
     </tr>
     </table>

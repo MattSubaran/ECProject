@@ -87,5 +87,11 @@ namespace TechSmart
         {
             UpdateCartItems();
         }
+
+        protected void CheckoutBtn_Click(object sender, EventArgs e)
+        {
+
+            Response.Redirect("checkoutform.aspx");
+        }
     }
 }
